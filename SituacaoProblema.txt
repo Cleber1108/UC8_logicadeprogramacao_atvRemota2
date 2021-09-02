@@ -1,0 +1,6 @@
+Percorrer de Zero até o número de alunos em sala de aula
+
+Se o número for par, escreva "par" e o número correspondente
+se o número for impar, escreva "impar" e o número correspondente
+se o número for zero, escreva "zero" e o número correspondente
+
